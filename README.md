@@ -1,7 +1,7 @@
 # https://dreadlocker.github.io/WhenLegendsRise2/
 
 ## za da raboti kato GitHib Page:
-v index.html:
+* v index.html:
 Zamenqme
 href=/
 sus
