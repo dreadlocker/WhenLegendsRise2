@@ -9,9 +9,7 @@ v index.html:
 
 WhenLegendsRise2 idva ot tyk:
 * https://dreadlocker.github.io/WhenLegendsRise2/
-* 
-* 
-* 
+# 
 v js/app.c226132c.js:
 * Zamenqme
 * media/
